@@ -1,0 +1,14 @@
+
+
+/* MISCELANEOUS */
+
+@import url('./misc//normalize.css');
+
+/* PARTIALS */
+@import url('./partials/header.css');
+@import url('./partials/footer.css');
+
+/* PAGINAS */
+
+@import url('./pages/home.css');
+@import url('./pages/nosotros.css');
