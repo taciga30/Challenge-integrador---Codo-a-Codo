@@ -1,19 +1,16 @@
 /*Normalizacion de estilos */
 
-/* * {
+/* 
+
+
+*,*::before,
+*::after {
     margin: 0;
     padding: 0;
+    box-sizing : border-box;
 } */
 
-/* body {
 
+/* html {
+    font-size: 62.5%;
 } */
-
-/* a {
-    font-family: ;
-} */
-
-/* p {
-   font-weight: 100; 
-} */
-
